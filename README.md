@@ -7,3 +7,6 @@ Connected to gmail with read only mode -- Details in task 2
 
 # Project 3
 Skill & connector is used -- Detial in task 3
+
+# Project 4
+Skill handed over to other person and it installed & used sucessfully -- Details in task 4
